@@ -37,7 +37,7 @@ require (
 	github.com/kelseyhightower/run v0.0.17
 	github.com/leonelquinteros/gotext v1.4.0
 	github.com/lib/pq v1.10.1
-	github.com/microcosm-cc/bluemonday v1.0.9
+	github.com/microcosm-cc/bluemonday v1.0.16
 	github.com/mikehelmick/go-chaff v0.5.0
 	github.com/nyaruka/phonenumbers v1.0.68
 	github.com/opencensus-integrations/redigo v2.0.1+incompatible
@@ -55,7 +55,7 @@ require (
 	go.opencensus.io v0.23.0
 	go.uber.org/zap v1.16.0
 	golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b // indirect
-	golang.org/x/net v0.0.0-20210423184538-5f58ad60dda6
+	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20210426080607-c94f62235c83 // indirect
 	golang.org/x/text v0.3.6
